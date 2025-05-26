@@ -1,0 +1,4 @@
+module TestPackage {
+    header "/Users/matheus.gois/Projects/sweetpad/test-package/.build/arm64-apple-macosx/debug/TestPackage.build/TestPackage-Swift.h"
+    requires objc
+}

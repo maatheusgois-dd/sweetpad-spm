@@ -1,5 +1,6 @@
 import XCTest
 @testable import TestPackage
+import SwiftUI
 
 final class TestPackageTests: XCTestCase {
     func testExample() throws {
@@ -19,4 +20,4 @@ final class TestPackageTests: XCTestCase {
         // results.
         XCTAssertTrue(true)
     }
-} 
+}
